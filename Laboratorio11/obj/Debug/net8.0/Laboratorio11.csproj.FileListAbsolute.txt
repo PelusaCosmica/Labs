@@ -1,0 +1,14 @@
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\bin\Debug\net8.0\Laboratorio11.exe
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\bin\Debug\net8.0\Laboratorio11.deps.json
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\bin\Debug\net8.0\Laboratorio11.runtimeconfig.json
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\bin\Debug\net8.0\Laboratorio11.dll
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\bin\Debug\net8.0\Laboratorio11.pdb
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.AssemblyInfoInputs.cache
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.AssemblyInfo.cs
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.dll
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\refint\Laboratorio11.dll
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.pdb
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\Laboratorio11.genruntimeconfig.cache
+C:\Users\jrodr\OneDrive\Escritorio\pc\actividades de laboratorio\Laboratorio11\obj\Debug\net8.0\ref\Laboratorio11.dll
